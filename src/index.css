@@ -1,0 +1,162 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+ 
+
+
+
+.bonjour{
+  
+ text-align: center;
+}
+.div{
+  
+ text-align: center;
+
+}
+.btn{
+  background-color: rgb(43, 226, 58);
+  border: 1px solid rgb(34, 204, 11);
+  font-size: 2em;
+  border-radius: 5px;
+  color: white;
+  font-weight: bolder;
+  
+}
+.btn:hover{
+  background-color: rgb(43, 198, 226);
+  border: 1px solid rgb(43, 198, 226) ;
+ 
+}
+.lien{
+  display: block;
+  margin-bottom: 5px;
+}
+.span{
+  display: block;
+}
+.strong{
+  display: block;
+  color: blue;
+}
+.handler{
+  
+  text-align: center;
+  
+}
+
+.click{
+  background-color: rgb(43, 198, 226);
+  border: 1px solid rgb(43, 198, 226) ;
+  font-size: 1em;
+  border-radius: 5px;
+  color: white;
+  font-weight: bolder;
+}
+.click:hover{
+  background-color: rgb(226, 162, 43);
+  border: 1px solid rgb(226, 162, 43) ;
+}
+.heur,.child{
+  text-align: center;
+}
+
+.span1,.span2,.span3,.span4{
+  background-color: blue;
+  border-radius: 5px;
+  border: 10px solid blue;
+  font-size: 20px;
+  color: #fff;
+  box-sizing: border-box;
+  width: 100%; 
+  padding: 5px;
+}
+/* .all{
+  background-color: orangered; 
+} */
+.btn-demar{
+  color: #fff;
+  background-color: green;
+  border: 1px solid green;
+  border-radius: 5px;
+  box-sizing: border-box;
+  width: 7rem;
+  height: 3rem;
+  font-size: 1rem;
+  margin-top: 30px;
+}
+.btn-red{
+  color: #fff;
+  background-color: red;
+  border: 1px solid red;
+  border-radius: 5px;
+  box-sizing: border-box;
+  width: 7rem;
+  height: 3rem;
+  font-size: 1rem;
+  margin-top: 30px;
+
+}
+.btn-yellow{
+  color: #fff;
+  background-color: yellow;
+  border: 1px solid yellow;
+  border-radius: 5px;
+  box-sizing: border-box;
+  width: 7rem;
+  height: 3rem;
+  font-size: 1rem;
+  margin-top: 30px;
+  margin-left: 5px;
+}
+.btn-orange{
+  color: #fff;
+  background-color: rgb(100, 221, 237);
+  border: 1px solid rgb(100, 221, 237);
+  border-radius: 5px;
+  box-sizing: border-box;
+  width: 7rem;
+  height: 3rem;
+  font-size: 1rem;
+  margin-top: 30px;
+  margin-left: 5px;
+}
+.btn-green{
+  color: #fff;
+  background-color: greenyellow;
+  border: 1px solid greenyellow;
+  border-radius: 5px;
+  box-sizing: border-box;
+  width: 7rem;
+  height: 3rem;
+  font-size: 1rem;
+  margin-top: 30px;
+  margin-left: 5px;
+}
+.horlo{
+  padding-top: 100px !important;
+  padding-bottom: 100px !important;
+  background-color:rgb(129, 126, 121);
+  margin-top: 100px;
+  margin-left: 400px;
+  margin-right: 400px;
+  border:  1px solid rgb(129, 126, 121);
+  border-radius: 5px;
+ 
+  
+  
+  
+
+  
+ 
+}
